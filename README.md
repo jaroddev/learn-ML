@@ -22,8 +22,15 @@ You find in this repositories, the following projects:
 
 Using data science library to train a linear regression and a KNN model
 
+Additional notes:
+ - First notebooks with Jupyter
+ - First ML model training with code (before only no-code was used to do this: orange3 and weka)
+
 ### bpoc
 
 Analysis of a csv file which contains informations on elected french parliament members
- - Creation of a very basic CLI 
- - 
+
+Additional notes:
+ - Creation of a very basic CLI in python
+ - Used pylint on the parite.py file (quality check)
+ - Very simple graph
